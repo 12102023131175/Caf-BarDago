@@ -1,0 +1,952 @@
+<site version="3.0"><css/><components/><page id="p74567796" pageindex="0" name="index" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav74963296" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav1IF3B" left="124" top="33" fp="1" exportfilename="images/nav74963296" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image75127000" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb82999468" resamplename="img82999484" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="INICIO CAFE BAR DAGO" left="339" top="107" width="932" height="426" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A.png" previewfile="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A.png" thumbname="thumb82999515" resamplename="img82999531" exportfilename="images/BIENVENIDOS A.png" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr1" zorder="3" filename="hr75794843" hrsize="10" width="1152" height="17" left="229" top="552" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="MARIA" left="228" top="618" width="227" height="376" originwidth="1225" originheight="2048" src="C:\Users\User\Downloads\WEB\images\IMG_1373.jpeg" previewfile="C:\Users\User\Downloads\WEB\images\IMG_1373.jpeg" thumbname="thumb82999562" resamplename="img82999578" exportfilename="images/IMG_1373.jpeg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="2" id="text1" zorder="5" filename="text75934312" left="488" top="711" width="874" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="269" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Saludos a todos, mi nombre es María y cuento con más de dos décadas de experiencia en el sector de la hostelería.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Disfruto enormemente de la interacción con las personas y me esfuerzo por brindar un servicio excepcional para garantizar la satisfacción del cliente.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;En este momento, me embarco en una emocionante nueva empresa: la apertura de mi propia cafetería.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Mi objetivo es crear un ambiente acogedor donde cada individuo pueda encontrar su espacio y deleitarse con el exquisito sabor de un café de calidad, así como disfrutar de una amplia variedad de opciones para desayunar, así como tapas y bocadillos para satisfacer vuestros paladares.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Saludos a todos, mi nombre es María y cuento con más de dos décadas de experiencia en el sector de la hostelería.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Disfruto enormemente de la interacción con las personas y me esfuerzo por brindar un servicio excepcional para garantizar la satisfacción del cliente.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;En este momento, me embarco en una emocionante nueva empresa: la apertura de mi propia cafetería.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Mi objetivo es crear un ambiente acogedor donde cada individuo pueda encontrar su espacio y deleitarse con el exquisito sabor de un café de calidad, así como disfrutar de una amplia variedad de opciones para desayunar, así como tapas y bocadillos para satisfacer vuestros paladares.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyA0IDAgMCAwIDANClNhbHVkb3MgYSB0b2RvcywgbWkgbm9tYnJlIGVzIE1h
+cu1hIHkgY3VlbnRvIGNvbiBt4XMgZGUgZG9zIGTpY2FkYXMgZGUgZXhwZXJpZW5jaWEgZW4gZWwg
+c2VjdG9yIGRlIGxhIGhvc3RlbGVy7WEuDQpEaXNmcnV0byBlbm9ybWVtZW50ZSBkZSBsYSBpbnRl
+cmFjY2nzbiBjb24gbGFzIHBlcnNvbmFzIHkgbWUgZXNmdWVyem8gcG9yIGJyaW5kYXIgdW4gc2Vy
+dmljaW8gZXhjZXBjaW9uYWwgcGFyYSBnYXJhbnRpemFyIGxhIHNhdGlzZmFjY2nzbiBkZWwgY2xp
+ZW50ZS4NCkVuIGVzdGUgbW9tZW50bywgbWUgZW1iYXJjbyBlbiB1bmEgZW1vY2lvbmFudGUgbnVl
+dmEgZW1wcmVzYTogbGEgYXBlcnR1cmEgZGUgbWkgcHJvcGlhIGNhZmV0ZXLtYS4NCk1pIG9iamV0
+aXZvIGVzIGNyZWFyIHVuIGFtYmllbnRlIGFjb2dlZG9yIGRvbmRlIGNhZGEgaW5kaXZpZHVvIHB1
+ZWRhIGVuY29udHJhciBzdSBlc3BhY2lvIHkgZGVsZWl0YXJzZSBjb24gZWwgZXhxdWlzaXRvIHNh
+Ym9yIGRlIHVuIGNhZukgZGUgY2FsaWRhZCwgYXPtIGNvbW8gZGlzZnJ1dGFyIGRlIHVuYSBhbXBs
+aWEgdmFyaWVkYWQgZGUgb3BjaW9uZXMgcGFyYSBkZXNheXVuYXIsIGFz7SBjb21vIHRhcGFzIHkg
+Ym9jYWRpbGxvcyBwYXJhIHNhdGlzZmFjZXIgdnVlc3Ryb3MgcGFsYWRhcmVzLg0K
+</rvf></Component><Component type="2" id="text2" zorder="6" filename="text76023078" width="300" height="90" html="" left="741" top="606" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;¿QUIÉN SOY?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;¿QUIÉN SOY?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr5AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNCb2xkAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9S
+ZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAA
+LTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCr9RVUnJTiBTT1k/DQo=
+</rvf></Component><Component type="9" id="hr2" zorder="7" filename="hr76094796" hrsize="10" width="1152" height="17" left="225" top="1027" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text3" zorder="8" filename="text76476031" width="376" height="90" html="" left="656" top="1064" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;¿QUÉ OS OFRECEMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;¿QUÉ OS OFRECEMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr5AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNCb2xkAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9S
+ZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAA
+LTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCr9RVckgT1MgT0ZSRUNFTU9T
+Pw0K
+</rvf></Component><Component type="3" id="image4" zorder="9" filename="PINCHOS FOTO" left="228" top="1133" width="277" height="209" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\images\image1.jpeg" previewfile="C:\Users\User\Downloads\WEB\images\image1.jpeg" bgcolor="" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" thumbname="thumb82999609" resamplename="img82999625" exportfilename="images/image1.jpeg" fp="0" lp="1"/><Component type="3" id="image5" zorder="10" filename="DESAYUNOS FOTO" left="852" top="1136" width="219" height="216" originwidth="1440" originheight="1420" src="C:\Users\User\Downloads\WEB\images\399105140_122134087814033911_1230469348456638209_n.jpg" previewfile="C:\Users\User\Downloads\WEB\images\399105140_122134087814033911_1230469348456638209_n.jpg" bgcolor="" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" thumbname="thumb82999656" resamplename="img82999671" exportfilename="images/399105140_122134087814033911_1230469348456638209_n.jpg" fp="0" lp="1"/><Component type="3" id="image6" zorder="11" filename="CAFES FOTO" left="532" top="1135" width="283" height="214" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\images\image33.jpeg" previewfile="C:\Users\User\Downloads\WEB\images\image33.jpeg" bgcolor="" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" thumbname="thumb82999703" resamplename="img82999718" exportfilename="images/image33.jpeg" fp="0" lp="1"/><Component type="3" id="image7" zorder="12" filename="VINOS FOTO" left="1104" top="1134" width="282" height="213" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\images\image31.jpeg" previewfile="C:\Users\User\Downloads\WEB\images\image31.jpeg" bgcolor="" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" thumbname="thumb82999750" resamplename="img82999765" exportfilename="images/image31.jpeg" fp="0" lp="1"/><Component type="5" id="nav2" zorder="13" filename="nav77167203" fontname="Tahoma" fontsize="13" fontcolor="3355443" fontstyle="0" activecolor="536870911" navspace="5" navstyle="1" hormargin="5" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="PINCHOS " navurl0="page://p80078562" navtarget0="" navstate0="0" navcount="1" width="136" height="35" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavIEAHC" left="284" top="1344" fp="1" exportfilename="images/nav77167203" exportsound="" lp="1"/><Component type="5" id="nav3" zorder="14" filename="nav77273343" fontname="Tahoma" fontsize="13" fontcolor="3355443" fontstyle="0" activecolor="536870911" navspace="5" navstyle="1" hormargin="5" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="CAFÉS" navurl0="page://p80026109" navtarget0="" navstate0="0" navcount="1" width="136" height="35" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavTQC2P" left="597" top="1351" fp="1" exportfilename="images/nav77273343" exportsound="" lp="1"/><Component type="5" id="nav4" zorder="15" filename="nav77296468" fontname="Tahoma" fontsize="13" fontcolor="3355443" fontstyle="0" activecolor="536870911" navspace="5" navstyle="1" hormargin="5" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="DESAYUNOS" navurl0="page://p80100343" navtarget0="" navstate0="0" navcount="1" width="136" height="35" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav1DLI5" left="894" top="1355" fp="1" exportfilename="images/nav77296468" exportsound="" lp="1"/><Component type="5" id="nav5" zorder="16" filename="nav77316343" fontname="Tahoma" fontsize="13" fontcolor="3355443" fontstyle="0" activecolor="536870911" navspace="5" navstyle="1" hormargin="5" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="VINOS" navurl0="page://p162961984" navtarget0="" navstate0="0" navcount="1" width="136" height="35" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav71LO7" left="1175" top="1349" fp="0" exportfilename="images/nav77316343" exportsound="" lp="1"/><Component type="9" id="hr3" zorder="17" filename="hr77475906" hrsize="10" width="1152" height="17" left="226" top="1428" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text4" zorder="18" filename="text77685562" left="876" top="1495" width="320" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="94" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;CADA DÍA UNA &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;TAPA DIFERENTE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;CADA DÍA UNA &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;TAPA DIFERENTE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCEgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAyIDEgMCAwIDANCkNBREEgRM1B
+IFVOQSANClRBUEEgRElGRVJFTlRFDQozIDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="3" id="image8" zorder="19" filename="GARBANZOS" left="507" top="1591" width="226" height="299" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\images\GARBANZOS.jpg" previewfile="C:\Users\User\Downloads\WEB\images\GARBANZOS.jpg" thumbname="thumb82999796" resamplename="img82999812" exportfilename="images/GARBANZOS.jpg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="3" id="image9" zorder="20" filename="PAELLA" left="229" top="1475" width="285" height="296" originwidth="808" originheight="841" src="C:\Users\User\Downloads\WEB\images\PAELLA.jpg" previewfile="C:\Users\User\Downloads\WEB\images\PAELLA.jpg" thumbname="thumb82999843" resamplename="img82999859" exportfilename="images/PAELLA.jpg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="3" id="image10" zorder="21" filename="FABADA" left="291" top="1666" width="244" height="303" originwidth="1018" originheight="1273" src="C:\Users\User\Downloads\WEB\images\FABADA.jpg" previewfile="C:\Users\User\Downloads\WEB\images\FABADA.jpg" thumbname="thumb82999890" resamplename="img82999906" exportfilename="images/FABADA.jpg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="2" id="text5" zorder="22" filename="text78187406" left="796" top="1627" width="550" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="261" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;La "tapa" es una costumbre gastronómica española que consiste en pequeñas porciones de alimentos servidas como acompañamiento de una bebida, comúnmente en bares y tabernas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Este concepto abarca desde simples aceitunas o patatas fritas hasta platos más sofisticados.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;La región de Asturias, situada en el norte de España, se distingue por su vasta tradición culinaria, donde las tapas asturianas suelen destacar por la abundancia de productos locales de alta calidad.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;¡Anímate y disfruta de ellas!&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;La "tapa" es una costumbre gastronómica española que consiste en pequeñas porciones de alimentos servidas como acompañamiento de una bebida, comúnmente en bares y tabernas.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Este concepto abarca desde simples aceitunas o patatas fritas hasta platos más sofisticados.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;La región de Asturias, situada en el norte de España, se distingue por su vasta tradición culinaria, donde las tapas asturianas suelen destacar por la abundancia de productos locales de alta calidad.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;¡Anímate y disfruta de ellas!&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyA0IDAgMCAwIDANCkxhICJ0YXBhIiBlcyB1bmEgY29zdHVtYnJlIGdhc3Ry
+b27zbWljYSBlc3Bh8W9sYSBxdWUgY29uc2lzdGUgZW4gcGVxdWXxYXMgcG9yY2lvbmVzIGRlIGFs
+aW1lbnRvcyBzZXJ2aWRhcyBjb21vIGFjb21wYfFhbWllbnRvIGRlIHVuYSBiZWJpZGEsIGNvbfpu
+bWVudGUgZW4gYmFyZXMgeSB0YWJlcm5hcy4NCkVzdGUgY29uY2VwdG8gYWJhcmNhIGRlc2RlIHNp
+bXBsZXMgYWNlaXR1bmFzIG8gcGF0YXRhcyBmcml0YXMgaGFzdGEgcGxhdG9zIG3hcyBzb2Zpc3Rp
+Y2Fkb3MuDQpMYSByZWdp824gZGUgQXN0dXJpYXMsIHNpdHVhZGEgZW4gZWwgbm9ydGUgZGUgRXNw
+YfFhLCBzZSBkaXN0aW5ndWUgcG9yIHN1IHZhc3RhIHRyYWRpY2nzbiBjdWxpbmFyaWEsIGRvbmRl
+IGxhcyB0YXBhcyBhc3R1cmlhbmFzIHN1ZWxlbiBkZXN0YWNhciBwb3IgbGEgYWJ1bmRhbmNpYSBk
+ZSBwcm9kdWN0b3MgbG9jYWxlcyBkZSBhbHRhIGNhbGlkYWQuDQqhQW7tbWF0ZSB5IGRpc2ZydXRh
+IGRlIGVsbGFzIQ0K
+</rvf></Component><Component type="9" id="hr4" zorder="23" filename="hr78313250" hrsize="10" width="1152" height="17" left="222" top="1982" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text6" zorder="24" filename="text78550515" left="694" top="2064" width="584" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="72" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;HACEMOS TORTILLA POR ENCARGO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;HACEMOS TORTILLA POR ENCARGO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDAgMCAwIDANCkhBQ0VNT1Mg
+VE9SVElMTEEgUE9SIEVOQ0FSR08NCjMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component type="2" id="text7" zorder="25" filename="text78603109" left="651" top="2161" width="647" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="194" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;¨Deléitate con la Exquisita Tortilla Española: Receta Tradicional y Sabrosa¨. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Si no te apetece hacer comida o cena, si tienes invitados o un evento, no lo pienses más, llámanos y por encargo te hacemos una buena tortilla de patata española a tu gusto. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Para encargos puede ser por teléfono o whatsapp al número: &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;645191936&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;¨Deléitate con la Exquisita Tortilla Española: Receta Tradicional y Sabrosa¨. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Si no te apetece hacer comida o cena, si tienes invitados o un evento, no lo pienses más, llámanos y por encargo te hacemos una buena tortilla de patata española a tu gusto. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Para encargos puede ser por teléfono o whatsapp al número: &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;645191936&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAzIDAgMCAwIDANCqhEZWzpaXRh
+dGUgY29uIGxhIEV4cXVpc2l0YSBUb3J0aWxsYSBFc3Bh8W9sYTogUmVjZXRhIFRyYWRpY2lvbmFs
+IHkgU2Ficm9zYaguIA0KU2kgbm8gdGUgYXBldGVjZSBoYWNlciBjb21pZGEgbyBjZW5hLCBzaSB0
+aWVuZXMgaW52aXRhZG9zIG8gdW4gZXZlbnRvLCBubyBsbyBwaWVuc2VzIG3hcywgbGzhbWFub3Mg
+eSBwb3IgZW5jYXJnbyB0ZSBoYWNlbW9zIHVuYSBidWVuYSB0b3J0aWxsYSBkZSBwYXRhdGEgZXNw
+YfFvbGEgYSB0dSBndXN0by4gDQpQYXJhIGVuY2FyZ29zIHB1ZWRlIHNlciBwb3IgdGVs6WZvbm8g
+byB3aGF0c2FwcCBhbCBu+m1lcm86IA0KNCAxIC0xIDEgMCAwDQo2NDUxOTE5MzYNCg==
+</rvf></Component><Component type="3" id="image11" zorder="26" filename="TORTILLA" left="226" top="2036" width="266" height="353" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\images\TORTILLA.jpg" previewfile="C:\Users\User\Downloads\WEB\images\TORTILLA.jpg" thumbname="thumb82999937" resamplename="img82999953" exportfilename="images/TORTILLA.jpg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr5" zorder="27" filename="hr78762937" hrsize="10" width="1152" height="17" left="212" top="2411" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text8" zorder="28" filename="text78950156" left="299" top="2554" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="103" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAzIDAgMCAwIDANCkNvbW8gbGxlZ2FyIGEgDQpDLyBNYXJxdWVzYSBkZSBD
+YW5pbGxlamFzLCAyOQ0KMzM1MTAgLSBQb2xhIGRlIFNpZXJvIChBU1RVUklBUykNCg==
+</rvf></Component><Component type="2" id="text9" zorder="29" filename="text78959890" width="324" height="90" html="" left="294" top="2459" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;¿DÓNDE ESTAMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;¿DÓNDE ESTAMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr5AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNCb2xkAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9S
+ZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAA
+LTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCr9E005ERSBFU1RBTU9TPw0K
+</rvf></Component><Component type="12" id="html1" zorder="30" filename="html79213796" script="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.366386744669!2d-5.6624561!3d43.3902709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd36610a8b258df9%3A0x2fbc6bdf551b70ab!2sCaf%C3%A9-Bar%20Dago!5e0!3m2!1ses!2ses!4v1719583871547!5m2!1ses!2ses&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="287" height="248" left="630" top="2458" fp="1" lp="1"/><Component type="3" id="image12" zorder="31" filename="TOGOODTOOGO" left="1000" top="2456" width="236" height="236" originwidth="834" originheight="835" src="C:\Users\User\Downloads\WEB\images\TOGOODTOOGO.png" previewfile="C:\Users\User\Downloads\WEB\images\TOGOODTOOGO.png" linkurl="https://www.toogoodtogo.com/es/business/referral?referred_by=1139680&amp;store_name=Caf%C3%A9-Bar+Dago&amp;logo=https://images.tgtg.ninja/store/ec870c27-0011-4d56-a14a-ab27311961f4.jpg&amp;fbclid=IwAR0HYhH2sxFDigaRVJ1s5uMMHCOtA37KJuWyYY61es4rOSsEOqQgCMCyqFA" lp="1" thumbname="thumb82999984" resamplename="img83000000" exportfilename="images/TOGOODTOOGO.png" fp="0" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="2" id="text11" zorder="32" filename="text79741625" width="200" height="90" html="" left="1027" top="2693" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Descarga la app y&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; haz tu pedido&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Descarga la app y&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; haz tu pedido&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAyIDAgMCAwIDANCkRlc2NhcmdhIGxhIGFwcCB5DQogaGF6IHR1IHBlZGlk
+bw0K
+</rvf></Component><Component type="9" id="hr6" zorder="33" filename="hr79896734" hrsize="30" width="1152" height="17" left="215" top="2760" hrcolor="#0FA666" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/></body></page><page id="p80026109" pageindex="1" name="CAFÉS" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="3" id="image1" zorder="0" filename="image80068859" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000031" resamplename="img83000046" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="5" id="nav1" zorder="1" filename="nav80329187" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavLUV7C" left="124" top="33" fp="1" exportfilename="images/nav80329187" exportsound="" lp="1"/><Component type="3" id="image2" zorder="2" filename="CAFES LOGO" left="367" top="111" width="898" height="349" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A (1).png" previewfile="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A (1).png" thumbname="thumb83000078" resamplename="img83000093" exportfilename="images/BIENVENIDOS A (1).png" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#333333" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr1" zorder="3" filename="hr80494125" hrsize="10" width="1152" height="17" left="234" top="469" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text1" zorder="4" filename="text80593046" left="678" top="572" width="684" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="171" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CAFÉ&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; es la infusión que se obtiene al pasar agua caliente a través de los granos de café tostados y molidos, provenientes de la planta del café. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Descubre el Café Perfecto en Café Bar Dago. Una Experiencia para los Amantes del Café Montecelio.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CAFÉ&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; es la infusión que se obtiene al pasar agua caliente a través de los granos de café tostados y molidos, provenientes de la planta del café. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Descubre el Café Perfecto en Café Bar Dago. Una Experiencia para los Amantes del Café Montecelio.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkVsIA0KNCAx
+IC0xIDEgMCAwDQpDQUbJDQozIDEgLTEgMSAwIDANCiBlcyBsYSBpbmZ1c2nzbiBxdWUgc2Ugb2J0
+aWVuZSBhbCBwYXNhciBhZ3VhIGNhbGllbnRlIGEgdHJhdulzIGRlIGxvcyBncmFub3MgZGUgY2Fm
+6SB0b3N0YWRvcyB5IG1vbGlkb3MsIHByb3ZlbmllbnRlcyBkZSBsYSBwbGFudGEgZGVsIGNhZuku
+IA0KMyAxIDAgMCAwIDANCkRlc2N1YnJlIGVsIENhZukgUGVyZmVjdG8gZW4gQ2Fm6SBCYXIgRGFn
+by4gVW5hIEV4cGVyaWVuY2lhIHBhcmEgbG9zIEFtYW50ZXMgZGVsIENhZukgTW9udGVjZWxpby4N
+Cg==
+</rvf></Component><Component type="3" id="image3" zorder="5" filename="GRANOS CAFE" left="237" top="522" width="392" height="247" originwidth="1280" originheight="886" src="C:\Users\User\Downloads\WEB\images\coffee-3392168_1280.jpg" previewfile="C:\Users\User\Downloads\WEB\images\coffee-3392168_1280.jpg" thumbname="thumb83000125" resamplename="img83000140" exportfilename="images/coffee-3392168_1280.jpg" fp="0" lp="1" bgcolor="#333333" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr2" zorder="6" filename="hr80707031" hrsize="10" width="1152" height="17" left="228" top="793" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text2" zorder="7" filename="text81024765" left="688" top="865" width="684" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="155" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CAFÉ BOMBÓN&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; es una mezcla de café endulzado con leche condensada. Se suele servir en un vaso de cristal transparente con el objeto de mostrar las capas de café y leche. La diferente densidad de los líquidos hace que el café quede en la parte superior, mientras que la leche condensada va a la parte inferior.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CAFÉ BOMBÓN&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; es una mezcla de café endulzado con leche condensada. Se suele servir en un vaso de cristal transparente con el objeto de mostrar las capas de café y leche. La diferente densidad de los líquidos hace que el café quede en la parte superior, mientras que la leche condensada va a la parte inferior.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkVsIA0KNCAx
+IC0xIDEgMCAwDQpDQUbJIEJPTULTTg0KMyAxIC0xIDEgMCAwDQogZXMgdW5hIG1lemNsYSBkZSBj
+YWbpIGVuZHVsemFkbyBjb24gbGVjaGUgY29uZGVuc2FkYS4gU2Ugc3VlbGUgc2VydmlyIGVuIHVu
+IHZhc28gZGUgY3Jpc3RhbCB0cmFuc3BhcmVudGUgY29uIGVsIG9iamV0byBkZSBtb3N0cmFyIGxh
+cyBjYXBhcyBkZSBjYWbpIHkgbGVjaGUuIExhIGRpZmVyZW50ZSBkZW5zaWRhZCBkZSBsb3MgbO1x
+dWlkb3MgaGFjZSBxdWUgZWwgY2Fm6SBxdWVkZSBlbiBsYSBwYXJ0ZSBzdXBlcmlvciwgbWllbnRy
+YXMgcXVlIGxhIGxlY2hlIGNvbmRlbnNhZGEgdmEgYSBsYSBwYXJ0ZSBpbmZlcmlvci4NCg==
+</rvf></Component><Component type="3" id="image4" zorder="8" filename="CAFE BOMBON" left="239" top="822" width="391" height="202" originwidth="853" originheight="479" src="C:\Users\User\Downloads\WEB\images\CAFE BOMBON.jpg" previewfile="C:\Users\User\Downloads\WEB\images\CAFE BOMBON.jpg" thumbname="thumb83000171" resamplename="img83000187" exportfilename="images/CAFE BOMBON.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr3" zorder="9" filename="hr81118765" hrsize="10" width="1152" height="17" left="226" top="1029" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text3" zorder="10" filename="text81170531" left="691" top="1107" width="670" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="125" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Un &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CARAJILLO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; es una bebida que combina café y alguna bebida alcohólica, como coñac, ron, anís, orujo o whisky. Generalmente se sirve en un vaso pequeño tipo rocas o chupito y se toma caliente o frío con hielos. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Un &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CARAJILLO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; es una bebida que combina café y alguna bebida alcohólica, como coñac, ron, anís, orujo o whisky. Generalmente se sirve en un vaso pequeño tipo rocas o chupito y se toma caliente o frío con hielos. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClVuIA0KNCAx
+IC0xIDEgMCAwDQpDQVJBSklMTE8NCjMgMSAtMSAxIDAgMA0KIGVzIHVuYSBiZWJpZGEgcXVlIGNv
+bWJpbmEgY2Fm6SB5IGFsZ3VuYSBiZWJpZGEgYWxjb2jzbGljYSwgY29tbyBjb/FhYywgcm9uLCBh
+bu1zLCBvcnVqbyBvIHdoaXNreS4gR2VuZXJhbG1lbnRlIHNlIHNpcnZlIGVuIHVuIHZhc28gcGVx
+dWXxbyB0aXBvIHJvY2FzIG8gY2h1cGl0byB5IHNlIHRvbWEgY2FsaWVudGUgbyBmcu1vIGNvbiBo
+aWVsb3MuIA0K
+</rvf></Component><Component type="3" id="image5" zorder="11" filename="CARAJILLO" left="239" top="1061" width="391" height="222" originwidth="1280" originheight="719" src="C:\Users\User\Downloads\WEB\images\CARAJILLO.jpg" previewfile="C:\Users\User\Downloads\WEB\images\CARAJILLO.jpg" thumbname="thumb83000218" resamplename="img83000234" exportfilename="images/CARAJILLO.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr4" zorder="12" filename="hr81235078" hrsize="10" width="1152" height="17" left="223" top="1287" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text4" zorder="13" filename="text81299109" left="687" top="1373" width="674" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="175" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CAPUCCINO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; es una bebida nacida en Austria, preparada con café expreso y leche montada con vapor para darle cremosidad. Un capuchino se compone de 125 ml de leche y 25 ml de café expreso, en ocasiones se agrega cacao en polvo o canela según el gusto del consumidor.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CAPUCCINO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; es una bebida nacida en Austria, preparada con café expreso y leche montada con vapor para darle cremosidad. Un capuchino se compone de 125 ml de leche y 25 ml de café expreso, en ocasiones se agrega cacao en polvo o canela según el gusto del consumidor.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkVsIA0KNCAx
+IC0xIDEgMCAwDQpDQVBVQ0NJTk8NCjMgMSAtMSAxIDAgMA0KIGVzIHVuYSBiZWJpZGEgbmFjaWRh
+IGVuIEF1c3RyaWEsIHByZXBhcmFkYSBjb24gY2Fm6SBleHByZXNvIHkgbGVjaGUgbW9udGFkYSBj
+b24gdmFwb3IgcGFyYSBkYXJsZSBjcmVtb3NpZGFkLiBVbiBjYXB1Y2hpbm8gc2UgY29tcG9uZSBk
+ZSAxMjUgbWwgZGUgbGVjaGUgeSAyNSBtbCBkZSBjYWbpIGV4cHJlc28sIGVuIG9jYXNpb25lcyBz
+ZSBhZ3JlZ2EgY2FjYW8gZW4gcG9sdm8gbyBjYW5lbGEgc2Vn+m4gZWwgZ3VzdG8gZGVsIGNvbnN1
+bWlkb3IuDQo=
+</rvf></Component><Component type="3" id="image6" zorder="14" filename="CAPUCCINO" left="237" top="1323" width="394" height="217" originwidth="1280" originheight="719" src="C:\Users\User\Downloads\WEB\images\CAPUCCINO.jpg" previewfile="C:\Users\User\Downloads\WEB\images\CAPUCCINO.jpg" thumbname="thumb83000265" resamplename="img83000281" exportfilename="images/CAPUCCINO.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr5" zorder="15" filename="hr81365781" hrsize="10" width="1152" height="17" left="224" top="1549" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text5" zorder="16" filename="text81399609" left="686" top="1645" width="679" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="162" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CAFÉ IRLANDÉS o IRISH COFFEE &lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;es un cóctel que consiste en la mezcla de whisky irlandés, una cucharada de azúcar y café, pero finalmente va cubierto por dos centímetros de crema de leche o nata semimontada. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;El &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CAFÉ IRLANDÉS o IRISH COFFEE &lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;es un cóctel que consiste en la mezcla de whisky irlandés, una cucharada de azúcar y café, pero finalmente va cubierto por dos centímetros de crema de leche o nata semimontada. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkVsIA0KNCAx
+IC0xIDEgMCAwDQpDQUbJIElSTEFORMlTIG8gSVJJU0ggQ09GRkVFIA0KMyAxIC0xIDEgMCAwDQpl
+cyB1biBj82N0ZWwgcXVlIGNvbnNpc3RlIGVuIGxhIG1lemNsYSBkZSB3aGlza3kgaXJsYW5k6XMs
+IHVuYSBjdWNoYXJhZGEgZGUgYXr6Y2FyIHkgY2Fm6SwgcGVybyBmaW5hbG1lbnRlIHZhIGN1Ymll
+cnRvIHBvciBkb3MgY2VudO1tZXRyb3MgZGUgY3JlbWEgZGUgbGVjaGUgbyBuYXRhIHNlbWltb250
+YWRhLiANCg==
+</rvf></Component><Component type="3" id="image7" zorder="17" filename="CAFE IRLANDES" left="238" top="1581" width="402" height="240" originwidth="6720" originheight="4480" src="C:\Users\User\Downloads\WEB\images\CAFE IRLANDES.jpg" previewfile="C:\Users\User\Downloads\WEB\images\CAFE IRLANDES.jpg" thumbname="thumb83000312" resamplename="img83000328" exportfilename="images/CAFE IRLANDES.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr6" zorder="18" filename="hr81545718" hrsize="10" width="1152" height="17" left="221" top="1825" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/></body></page><page id="p80078562" pageindex="2" name="PINCHOS" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80338390" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav1814L" left="124" top="33" fp="1" exportfilename="images/nav80338390" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80389859" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000375" resamplename="img83000390" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="PINCHOS LOGO" left="372" top="84" width="858" height="385" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A (2).png" previewfile="C:\Users\User\Downloads\WEB\images\BIENVENIDOS A (2).png" thumbname="thumb83000421" resamplename="img83000437" exportfilename="images/BIENVENIDOS A (2).png" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr1" zorder="3" filename="hr81674000" hrsize="10" width="1152" height="17" left="220" top="473" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text1" zorder="4" filename="text81748703" left="644" top="536" width="727" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="506" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;En &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CAFÉ BAR DAGO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;, os ofrecemos una amplia variedad de pinchos o si lo prefieres un bocata. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;POLLO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;, con lechuga y mayonesa o si lo prefieres puedes pedirlo a tu gusto. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;LOMO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;, con queso y podemos añadirle unas lonchas finas de tomate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Pincho &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;VEGETAL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; de patata&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;BONITO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; con mayonesa o &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;BONITO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; con tomate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; de Jamón York.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; de Picadillo.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;En &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CAFÉ BAR DAGO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;, os ofrecemos una amplia variedad de pinchos o si lo prefieres un bocata. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;POLLO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;, con lechuga y mayonesa o si lo prefieres puedes pedirlo a tu gusto. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;LOMO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;, con queso y podemos añadirle unas lonchas finas de tomate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Pincho &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;VEGETAL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; de patata&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;BONITO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; con mayonesa o &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;BONITO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; con tomate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; de Jamón York.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;TORTILLA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; de Picadillo.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDAgMCAwIDANCg0KRW4gDQo0
+IDEgLTEgMSAwIDANCkNBRskgQkFSIERBR08NCjMgMSAtMSAxIDAgMA0KLCBvcyBvZnJlY2Vtb3Mg
+dW5hIGFtcGxpYSB2YXJpZWRhZCBkZSBwaW5jaG9zIG8gc2kgbG8gcHJlZmllcmVzIHVuIGJvY2F0
+YS4gDQozIDIgMCAwIDAgMA0KDQpEZSANCjQgMSAtMSAxIDAgMA0KUE9MTE8NCjMgMSAtMSAxIDAg
+MA0KLCBjb24gbGVjaHVnYSB5IG1heW9uZXNhIG8gc2kgbG8gcHJlZmllcmVzIHB1ZWRlcyBwZWRp
+cmxvIGEgdHUgZ3VzdG8uIA0KMyAyIDAgMCAwIDANCg0KRGUgDQo0IDEgLTEgMSAwIDANCkxPTU8N
+CjMgMSAtMSAxIDAgMA0KLCBjb24gcXVlc28geSBwb2RlbW9zIGHxYWRpcmxlIHVuYXMgbG9uY2hh
+cyBmaW5hcyBkZSB0b21hdGUuDQozIDIgMCAwIDAgMA0KDQpQaW5jaG8gDQo0IDEgLTEgMSAwIDAN
+ClZFR0VUQUwNCjMgMSAwIDAgMCAwDQoNCjQgMSAwIDAgMCAwDQpUT1JUSUxMQQ0KMyAxIC0xIDEg
+MCAwDQogZGUgcGF0YXRhDQozIDEgMCAwIDAgMA0KDQo0IDEgMCAwIDAgMA0KQk9OSVRPDQozIDEg
+LTEgMSAwIDANCiBjb24gbWF5b25lc2EgbyANCjQgMSAtMSAxIDAgMA0KQk9OSVRPDQozIDEgLTEg
+MSAwIDANCiBjb24gdG9tYXRlLg0KMyAxIDAgMCAwIDANCg0KNCAxIDAgMCAwIDANClRPUlRJTExB
+DQozIDEgLTEgMSAwIDANCiBkZSBKYW3zbiBZb3JrLg0KMyAxIDAgMCAwIDANCg0KNCAxIDAgMCAw
+IDANClRPUlRJTExBDQozIDEgLTEgMSAwIDANCiBkZSBQaWNhZGlsbG8uDQo=
+</rvf></Component><Component type="2" id="text2" zorder="5" filename="text81857187" left="232" top="1024" width="595" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="413" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Habrá extras como:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CARNE GUISADA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;CARNE EMPANADA.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;BAICON.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;JAMÓN SERRANO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Tostadas o &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;PANTUMACA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;SANDWICH MIXTO VEGETAL O ESPECIAL DAGO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Habrá extras como:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CARNE GUISADA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;CARNE EMPANADA.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;BAICON.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;De &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;JAMÓN SERRANO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Tostadas o &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;PANTUMACA&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;SANDWICH MIXTO VEGETAL O ESPECIAL DAGO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAzIDAgMCAwIDANCkhhYnLhIGV4
+dHJhcyBjb21vOg0KDQpEZSANCjQgMSAtMSAxIDAgMA0KQ0FSTkUgR1VJU0FEQQ0KMyAxIC0xIDEg
+MCAwDQouDQozIDIgMCAwIDAgMA0KDQpEZSANCjQgMSAtMSAxIDAgMA0KQ0FSTkUgRU1QQU5BREEu
+DQo0IDEgMCAwIDAgMA0KDQozIDEgMCAwIDAgMA0KRGUgDQo0IDEgLTEgMSAwIDANCkJBSUNPTi4N
+CjMgMiAwIDAgMCAwDQoNCkRlIA0KNCAxIC0xIDEgMCAwDQpKQU3TTiBTRVJSQU5PDQozIDEgLTEg
+MSAwIDANCi4NCjMgMiAwIDAgMCAwDQoNClRvc3RhZGFzIG8gDQo0IDEgLTEgMSAwIDANClBBTlRV
+TUFDQQ0KMyAxIC0xIDEgMCAwDQouDQozIDEgMCAwIDAgMA0KDQo0IDEgMCAwIDAgMA0KU0FORFdJ
+Q0ggTUlYVE8gVkVHRVRBTCBPIEVTUEVDSUFMIERBR08NCg==
+</rvf></Component><Component type="3" id="image3" zorder="6" filename="PINCHOS DAGO" left="232" top="536" width="342" height="454" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\images\PINCHOS 2.jpg" previewfile="C:\Users\User\Downloads\WEB\images\PINCHOS 2.jpg" thumbname="thumb83000468" resamplename="img83000484" exportfilename="images/PINCHOS 2.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="3" id="image4" zorder="7" filename="SANDWICH DAGO" left="925" top="1017" width="263" height="348" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\images\PINCHOS 1.jpg" previewfile="C:\Users\User\Downloads\WEB\images\PINCHOS 1.jpg" thumbname="thumb83000515" resamplename="img83000531" exportfilename="images/PINCHOS 1.jpg" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="9" id="hr2" zorder="8" filename="hr82160171" hrsize="10" width="1152" height="17" left="211" top="1376" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="3" id="image5" zorder="9" filename="TOGOODTOOGO1" left="399" top="1426" width="236" height="236" originwidth="834" originheight="835" src="C:\Users\User\Downloads\WEB\images\TOGOODTOOGO.png" previewfile="C:\Users\User\Downloads\WEB\images\TOGOODTOOGO.png" linkurl="https://www.toogoodtogo.com/es/business/referral?referred_by=1139680&amp;store_name=Caf%C3%A9-Bar+Dago&amp;logo=https://images.tgtg.ninja/store/ec870c27-0011-4d56-a14a-ab27311961f4.jpg&amp;fbclid=IwAR0HYhH2sxFDigaRVJ1s5uMMHCOtA37KJuWyYY61es4rOSsEOqQgCMCyqFA" thumbname="thumb83000562" resamplename="img83000578" exportfilename="images/TOGOODTOOGO.png" fp="0" lp="1" bgcolor="#000000" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0"/><Component type="2" id="text3" zorder="10" filename="text82259296" width="200" height="90" html="" left="665" top="1498" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Descarga la app y&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; haz tu pedido&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Descarga la app y&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; haz tu pedido&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAyIDAgMCAwIDANCkRlc2NhcmdhIGxhIGFwcCB5DQogaGF6IHR1IHBlZGlk
+bw0K
+</rvf></Component><Component type="2" id="text4" zorder="11" filename="text82284562" left="950" top="1428" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="103" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAzIDAgMCAwIDANCkNvbW8gbGxlZ2FyIGEgDQpDLyBNYXJxdWVzYSBkZSBD
+YW5pbGxlamFzLCAyOQ0KMzM1MTAgLSBQb2xhIGRlIFNpZXJvIChBU1RVUklBUykNCg==
+</rvf></Component><Component type="12" id="html1" zorder="12" filename="html82314453" script="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.366386744669!2d-5.6624561!3d43.3902709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd36610a8b258df9%3A0x2fbc6bdf551b70ab!2sCaf%C3%A9-Bar%20Dago!5e0!3m2!1ses!2ses!4v1719583871547!5m2!1ses!2ses&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="287" height="248" left="949" top="1540" fp="1" lp="1"/><Component type="9" id="hr3" zorder="13" filename="hr82328000" hrsize="10" width="1152" height="17" left="203" top="1798" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/></body></page><page id="p80100343" pageindex="3" name="DESAYUNOS" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80347687" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavM51V6" left="124" top="33" fp="1" exportfilename="images/nav80347687" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80392500" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000625" resamplename="img83000640" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="image163826953" left="352" top="87" width="879" height="403" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\BIENVENIDOS A (3).png" previewfile="C:\Users\User\Downloads\WEB\BIENVENIDOS A (3).png"/><Component type="9" id="hr1" zorder="3" filename="hr163862656" hrsize="10" width="1152" height="17" left="218" top="510" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text1" zorder="4" filename="text163912953" left="447" top="553" width="700" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="88" bgcolor="#339966" borderstyle="1" bordercolor="#000000" borderwidth="3" savetopic="0" alt="" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;PIDE EN LA BARRA TU TARJETA DE FIDELIDAD PARA DESAYUNOS&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;"DESAYUNO 10 GRATIS"&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;PIDE EN LA BARRA TU TARJETA DE FIDELIDAD PARA DESAYUNOS&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;"DESAYUNO 10 GRATIS"&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClBJREUgRU4gTEEgQkFSUkEgVFUgVEFSSkVUQSBERSBG
+SURFTElEQUQgUEFSQSBERVNBWVVOT1MNCjMgMSAwIDAgMCAwDQoNCjMgMSAxIDAgMCAwDQoiREVT
+QVlVTk8gMTAgR1JBVElTIg0K
+</rvf></Component><Component type="2" id="text2" zorder="5" filename="text163976265" left="737" top="661" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="511" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" savetopic="0" alt="" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Opciones para DESAYUNOS:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Café + Bollería &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Café + Bollería + Zumo&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Bote de Refresco + Pincho&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Chocolate + Churros&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;BOLLERÍA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Croissant &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Donuts&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Napolitana&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Bizcocho&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Opciones para DESAYUNOS:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Café + Bollería &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Café + Bollería + Zumo&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Bote de Refresco + Pincho&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Chocolate + Churros&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;BOLLERÍA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Croissant &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Donuts&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Napolitana&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Bizcocho&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAxOSAxIDAgMCAwDQpPcGNpb25lcyBwYXJhIERFU0FZVU5PUzoNCg0KQ2Fm
+6SArIEJvbGxlcu1hIA0KDQpDYWbpICsgQm9sbGVy7WEgKyBadW1vDQoNCkJvdGUgZGUgUmVmcmVz
+Y28gKyBQaW5jaG8NCg0KQ2hvY29sYXRlICsgQ2h1cnJvcw0KDQpCT0xMRVLNQQ0KDQpDcm9pc3Nh
+bnQgDQoNCkRvbnV0cw0KDQpOYXBvbGl0YW5hDQoNCkJpemNvY2hvDQo=
+</rvf></Component><Component type="3" id="image3" zorder="6" filename="DESYUNO1" left="313" top="719" width="404" height="399" originwidth="1440" originheight="1420" src="C:\Users\User\Downloads\WEB\399105140_122134087814033911_1230469348456638209_n.jpg" previewfile="C:\Users\User\Downloads\WEB\399105140_122134087814033911_1230469348456638209_n.jpg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr2" zorder="7" filename="hr164149109" hrsize="10" width="1152" height="17" left="213" top="1191" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/></body></page><page id="p80114390" pageindex="6" name="EVENTOS" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80359890" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav6OL6C" left="124" top="33" fp="1" exportfilename="images/nav80359890" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80400250" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000671" resamplename="img83000687" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="9" id="hr1" zorder="2" filename="hr166728343" hrsize="10" width="1152" height="20" left="247" top="515" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text1" zorder="3" filename="text166793843" left="807" top="288" width="583" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="145" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;ESTAMOS PREPARANDO UN &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;ANIVERSARIO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt; POR TODO LO ALTO. VISITA &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;EVENTOS&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt; PARA ESTAR AL DÍA.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;ESTAMOS PREPARANDO UN &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;ANIVERSARIO&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws20"&gt; POR TODO LO ALTO. VISITA &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;EVENTOS&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws20"&gt; PARA ESTAR AL DÍA.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkVTVEFNT1Mg
+UFJFUEFSQU5ETyBVTiANCjQgMSAtMSAxIDAgMA0KQU5JVkVSU0FSSU8NCjMgMSAtMSAxIDAgMA0K
+IFBPUiBUT0RPIExPIEFMVE8uIFZJU0lUQSANCjQgMSAtMSAxIDAgMA0KRVZFTlRPUw0KMyAxIC0x
+IDEgMCAwDQogUEFSQSBFU1RBUiBBTCBEzUEuDQo=
+</rvf></Component><Component type="3" id="image2" zorder="4" filename="ANIVERSARIO 1" left="282" top="183" width="497" height="324" originwidth="4961" originheight="3508" src="C:\Users\User\Downloads\WEB\aniversario a3.png" previewfile="C:\Users\User\Downloads\WEB\aniversario a3.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image3" zorder="5" filename="ANIVERSARIO2" left="284" top="550" width="497" height="324" originwidth="3508" originheight="2480" src="C:\Users\User\Downloads\WEB\aniversario a4.png" previewfile="C:\Users\User\Downloads\WEB\aniversario a4.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="2" id="text2" zorder="6" filename="text167044453" left="812" top="666" width="568" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="145" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;MÚSICA EN DIRECTO Y UN CORTADOR DE JAMÓN&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;MÚSICA EN DIRECTO Y UN CORTADOR DE JAMÓN&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk3aU0lDQSBFTiBESVJFQ1RPIFkgVU4gQ09SVEFET1Ig
+REUgSkFN004NCg==
+</rvf></Component><Component type="9" id="hr2" zorder="7" filename="hr167100281" hrsize="10" width="1152" height="17" left="250" top="896" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text3" zorder="8" filename="text167121062" left="573" top="967" width="568" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="145" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;CONTINUARÁ ..........&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;CONTINUARÁ ..........&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkNPTlRJTlVBUsEgLi4uLi4uLi4uLg0K
+</rvf></Component></body></page><page id="p80130906" pageindex="5" name="GALERÍA" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80354109" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav4KLBB" left="124" top="33" fp="1" exportfilename="images/nav80354109" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80397843" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000734" resamplename="img83000750" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="GALERIALOGO" left="361" top="104" width="881" height="430" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\BIENVENIDOS A (5).png" previewfile="C:\Users\User\Downloads\WEB\BIENVENIDOS A (5).png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr1" zorder="3" filename="hr165197890" hrsize="10" width="1152" height="17" left="229" top="552" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="HELADOS" left="241" top="602" width="277" height="389" originwidth="2480" originheight="3508" src="C:\Users\User\Downloads\WEB\helados nestle 1.png" previewfile="C:\Users\User\Downloads\WEB\helados nestle 1.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image4" zorder="5" filename="MASCOTAS1" left="530" top="601" width="278" height="391" originwidth="2480" originheight="3508" src="C:\Users\User\Downloads\WEB\mascotas.png" previewfile="C:\Users\User\Downloads\WEB\mascotas.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image5" zorder="6" filename="SERVICIOS" left="823" top="601" width="544" height="394" originwidth="4961" originheight="3508" src="C:\Users\User\Downloads\WEB\servicios.png" previewfile="C:\Users\User\Downloads\WEB\servicios.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr2" zorder="7" filename="hr166041593" hrsize="10" width="1152" height="17" left="229" top="1012" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image6" zorder="8" filename="INTERIOR1" left="277" top="1059" width="323" height="244" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\image22.jpeg" previewfile="C:\Users\User\Downloads\WEB\image22.jpeg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image7" zorder="9" filename="INTERIOR2" left="642" top="1059" width="326" height="246" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\image23.jpeg" previewfile="C:\Users\User\Downloads\WEB\image23.jpeg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image8" zorder="10" filename="INTERIOR3" left="1011" top="1059" width="331" height="250" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\image19.jpeg" previewfile="C:\Users\User\Downloads\WEB\image19.jpeg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr3" zorder="11" filename="hr166336437" hrsize="10" width="1152" height="17" left="231" top="1335" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image9" zorder="12" filename="COMIDA" left="1115" top="1375" width="245" height="324" originwidth="3508" originheight="4961" src="C:\Users\User\Downloads\WEB\aqui se come.png" previewfile="C:\Users\User\Downloads\WEB\aqui se come.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image10" zorder="13" filename="PINCHOS3" left="852" top="1377" width="245" height="324" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\PINCHOS 2.jpg" previewfile="C:\Users\User\Downloads\WEB\PINCHOS 2.jpg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image11" zorder="14" filename="PINCHOS2" left="584" top="1382" width="245" height="325" originwidth="1536" originheight="2048" src="C:\Users\User\Downloads\WEB\PINCHOS 1.jpg" previewfile="C:\Users\User\Downloads\WEB\PINCHOS 1.jpg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image12" zorder="15" filename="PINCHOS1" left="257" top="1385" width="313" height="236" originwidth="640" originheight="480" src="C:\Users\User\Downloads\WEB\image1.jpeg" previewfile="C:\Users\User\Downloads\WEB\image1.jpeg" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr4" zorder="16" filename="hr166669093" hrsize="10" width="1152" height="17" left="237" top="1725" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/></body></page><page id="p80150203" pageindex="7" name="PET´S FRIENDLY" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80364562" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav6KMGD" left="124" top="33" fp="1" exportfilename="images/nav80364562" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80402656" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000796" resamplename="img83000812" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="2" id="text1" zorder="2" filename="text167257656" left="304" top="606" width="982" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="178" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;Bienvenidos a nuestro rincón perruno, donde las patas son bienvenidas!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;En Café Bar Dago celebramos la lealtad, la alegría y la incondicionalidad que los perros traen a nuestras vidas. Cada cola que mueve el viento cuenta una historia, y cada huella deja una marca de amor. Todos son bienvenidos, desde los más grandes hasta los más pequeños, de orejas largas o cortas, de pelaje rizado o liso. Sólo se pide el saber estar para compartir todos el mismo espacio.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;Bienvenidos a nuestro rincón perruno, donde las patas son bienvenidas!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;En Café Bar Dago celebramos la lealtad, la alegría y la incondicionalidad que los perros traen a nuestras vidas. Cada cola que mueve el viento cuenta una historia, y cada huella deja una marca de amor. Todos son bienvenidos, desde los más grandes hasta los más pequeños, de orejas largas o cortas, de pelaje rizado o liso. Sólo se pide el saber estar para compartir todos el mismo espacio.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNCb2xkAAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNp
+emUCDgAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkJpZW52ZW5p
+ZG9zIGEgbnVlc3RybyByaW5j824gcGVycnVubywgZG9uZGUgbGFzIHBhdGFzIHNvbiBiaWVudmVu
+aWRhcyENCjQgMSAwIDAgMCAwDQpFbiBDYWbpIEJhciBEYWdvIGNlbGVicmFtb3MgbGEgbGVhbHRh
+ZCwgbGEgYWxlZ3LtYSB5IGxhIGluY29uZGljaW9uYWxpZGFkIHF1ZSBsb3MgcGVycm9zIHRyYWVu
+IGEgbnVlc3RyYXMgdmlkYXMuIENhZGEgY29sYSBxdWUgbXVldmUgZWwgdmllbnRvIGN1ZW50YSB1
+bmEgaGlzdG9yaWEsIHkgY2FkYSBodWVsbGEgZGVqYSB1bmEgbWFyY2EgZGUgYW1vci4gVG9kb3Mg
+c29uIGJpZW52ZW5pZG9zLCBkZXNkZSBsb3MgbeFzIGdyYW5kZXMgaGFzdGEgbG9zIG3hcyBwZXF1
+ZfFvcywgZGUgb3JlamFzIGxhcmdhcyBvIGNvcnRhcywgZGUgcGVsYWplIHJpemFkbyBvIGxpc28u
+IFPzbG8gc2UgcGlkZSBlbCBzYWJlciBlc3RhciBwYXJhIGNvbXBhcnRpciB0b2RvcyBlbCBtaXNt
+byBlc3BhY2lvLg0K
+</rvf></Component><Component type="3" id="image2" zorder="3" filename="image167281687" left="306" top="87" width="982" height="453" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\BIENVENIDOS A (6).png" previewfile="C:\Users\User\Downloads\WEB\BIENVENIDOS A (6).png"/><Component type="9" id="hr1" zorder="4" filename="hr167316828" hrsize="10" width="1152" height="17" left="229" top="552" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr2" zorder="5" filename="hr167435109" hrsize="10" width="1152" height="17" left="226" top="781" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image3" zorder="6" filename="PERROS1" left="258" top="825" width="1101" height="762" originwidth="1095" originheight="756" src="C:\Users\User\Downloads\WEB\PERROS1.png" previewfile="C:\Users\User\Downloads\WEB\PERROS1.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr3" zorder="7" filename="hr167660953" hrsize="10" width="1152" height="17" left="236" top="1607" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image4" zorder="8" filename="PERROS2" left="259" top="1644" width="1106" height="752" originwidth="1100" originheight="746" src="C:\Users\User\Downloads\WEB\PERROS2.png" previewfile="C:\Users\User\Downloads\WEB\PERROS2.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr4" zorder="9" filename="hr167720093" hrsize="10" width="1152" height="17" left="237" top="2411" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image5" zorder="10" filename="PERROS3" left="264" top="2450" width="1104" height="745" originwidth="1098" originheight="739" src="C:\Users\User\Downloads\WEB\PERROS3.png" previewfile="C:\Users\User\Downloads\WEB\PERROS3.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr5" zorder="11" filename="hr167783109" hrsize="10" width="1152" height="17" left="245" top="3209" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/></body></page><page id="p80181843" pageindex="8" name="CARTA" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80368984" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavEVMQH" left="124" top="33" fp="1" exportfilename="images/nav80368984" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80404968" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000859" resamplename="img83000875" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="CARTA2" left="390" top="1332" width="856" height="1106" originwidth="1748" originheight="2480" src="C:\Users\User\Downloads\WEB\CARTA 2.png" previewfile="C:\Users\User\Downloads\WEB\CARTA 2.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="3" id="image3" zorder="3" filename="CARTA1" left="392" top="212" width="850" height="1098" originwidth="1748" originheight="2480" src="C:\Users\User\Downloads\WEB\CARTA 1.png" previewfile="C:\Users\User\Downloads\WEB\CARTA 1.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr1" zorder="4" filename="hr167949046" hrsize="10" width="1152" height="17" left="255" top="128" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="9" id="hr2" zorder="5" filename="hr168089031" hrsize="10" width="1152" height="17" left="247" top="2446" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/></body></page><page id="p80194921" pageindex="9" name="CONTACTO" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="5" id="nav1" zorder="0" filename="nav80374265" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\Nav1PMBT" left="124" top="33" fp="1" exportfilename="images/nav80374265" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image80407890" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb83000921" resamplename="img83000937" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="9" id="hr1" zorder="2" filename="hr168133546" hrsize="10" width="1152" height="17" left="249" top="171" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="REDES SOCIALES" left="752" top="298" width="628" height="272" originwidth="2480" originheight="1063" src="C:\Users\User\Downloads\WEB\REDES SS.png" previewfile="C:\Users\User\Downloads\WEB\REDES SS.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr2" zorder="4" filename="hr168199921" hrsize="10" width="1152" height="17" left="249" top="262" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image3" zorder="5" filename="QR" left="271" top="299" width="430" height="271" originwidth="4724" originheight="2964" src="C:\Users\User\Downloads\WEB\QR MESAS.png" previewfile="C:\Users\User\Downloads\WEB\QR MESAS.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="2" id="text1" zorder="6" filename="text169054890" width="1041" height="90" html="" left="321" top="206" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;SÍGUENOS EN REDES SOCIALES Y DÉJANOS TU OPINIÓN EN GOOGLE.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;SÍGUENOS EN REDES SOCIALES Y DÉJANOS TU OPINIÓN EN GOOGLE.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYNQ29taWMgU2FucyBNUwRTaXplAhQFU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpTzUdVRU5PUyBFTiBSRURFUyBT
+T0NJQUxFUyBZIETJSkFOT1MgVFUgT1BJTknTTiBFTiBHT09HTEUuDQo=
+</rvf></Component><Component type="9" id="hr3" zorder="7" filename="hr169163968" hrsize="10" width="1152" height="17" left="255" top="599" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="12" id="html1" zorder="8" filename="html169233000" script="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.366386744669!2d-5.6624561!3d43.3902709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd36610a8b258df9%3A0x2fbc6bdf551b70ab!2sCaf%C3%A9-Bar%20Dago!5e0!3m2!1ses!2ses!4v1719583871547!5m2!1ses!2ses&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;" width="287" height="248" left="469" top="648" fp="1" lp="1"/><Component type="2" id="text2" zorder="9" filename="text169273546" left="834" top="730" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="103" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Como llegar a &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;C/ Marquesa de Canillejas, 29&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;33510 - Pola de Siero (ASTURIAS)&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAzIDAgMCAwIDANCkNvbW8gbGxlZ2FyIGEgDQpDLyBNYXJxdWVzYSBkZSBD
+YW5pbGxlamFzLCAyOQ0KMzM1MTAgLSBQb2xhIGRlIFNpZXJvIChBU1RVUklBUykNCg==
+</rvf></Component><Component type="9" id="hr4" zorder="10" filename="hr169300062" hrsize="10" width="1152" height="17" left="249" top="909" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text3" zorder="11" filename="text169327421" width="324" height="90" html="" left="828" top="663" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;¿DÓNDE ESTAMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;¿DÓNDE ESTAMOS?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr5AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNCb2xkAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9S
+ZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAA
+LTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCr9E005ERSBFU1RBTU9TPw0K
+</rvf></Component><Component type="2" id="text4" zorder="12" filename="text169379968" left="830" top="828" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="42" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Teléfono o whatsapp al número: &lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;645191936&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Teléfono o whatsapp al número: &lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;645191936&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClRlbOlmb25v
+IG8gd2hhdHNhcHAgYWwgbvptZXJvOiANCjQgMSAtMSAxIDAgMA0KNjQ1MTkxOTM2DQo=
+</rvf></Component></body></page><page id="p162961984" pageindex="4" name="VINOS" pp="0" cp="0"><body><Component type="5" id="nav1" zorder="0" filename="nav163053781" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="15" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="136" navheight="30" normalimage="C:\Users\User\Downloads\WEB\images\cc02in.gif" mouseoverimage="C:\Users\User\Downloads\WEB\images\cc02over.gif" mouseoversound="" navtext0="INICIO" navurl0="page://p74567796" navtarget0="" navstate0="0" navtext1="CAFÉS " navurl1="page://p80026109" navtarget1="" navstate1="0" navtext2="PINCHOS " navurl2="page://p80078562" navtarget2="" navstate2="0" navtext3="DESAYUNOS" navurl3="page://p80100343" navtarget3="" navstate3="0" navtext4="GALERÍA" navurl4="page://p80130906" navtarget4="" navstate4="0" navtext5="EVENTOS" navurl5="page://p80114390" navtarget5="" navstate5="0" navtext6="PET´S FRIEND" navurl6="page://p80150203" navtarget6="" navstate6="0" navtext7="CARTA" navurl7="page://p80181843" navtarget7="" navstate7="0" navtext8="CONTACTO" navurl8="page://p80194921" navtarget8="" navstate8="0" navcount="9" width="1359" height="30" preview="C:\Users\User\AppData\Local\Temp\Web Page Maker\doc7M852\NavMUEQO" left="124" top="33" fp="1" exportfilename="images/nav74963296" exportsound="" lp="1"/><Component type="3" id="image1" zorder="1" filename="image163066109" left="79" top="108" width="168" height="65" originwidth="6247" originheight="2410" src="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" previewfile="C:\Users\User\Downloads\WEB\images\dago cafe full logo.png" thumbname="thumb82999468" resamplename="img82999484" exportfilename="images/dago cafe full logo.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="2" filename="VINOS LOGO" left="349" top="90" width="906" height="449" originwidth="1366" originheight="768" src="C:\Users\User\Downloads\WEB\BIENVENIDOS A (4).png" previewfile="C:\Users\User\Downloads\WEB\BIENVENIDOS A (4).png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr1" zorder="3" filename="hr164265484" hrsize="10" width="1152" height="17" left="229" top="552" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile="" fp="1" lp="1"/><Component type="2" id="text1" zorder="4" filename="text164285656" left="282" top="603" width="1044" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="103" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;B&gt;El VINO,&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; es una bebida alcohólica procedente de la fermentación del zumo de uva, la cual se produce gracias a la acción de las levaduras presentes en el hollejo de las uvas. El nombre vino procede del latín vinum , que se cree que procede del griego oinos e incluso del sánscrito vêna . &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;B&gt;El VINO,&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; es una bebida alcohólica procedente de la fermentación del zumo de uva, la cual se produce gracias a la acción de las levaduras presentes en el hollejo de las uvas. El nombre vino procede del latín vinum , que se cree que procede del griego oinos e incluso del sánscrito vêna . &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDAgMCAwIDANCkVsIFZJTk8s
+DQozIDEgLTEgMSAwIDANCiBlcyB1bmEgYmViaWRhIGFsY29o82xpY2EgcHJvY2VkZW50ZSBkZSBs
+YSBmZXJtZW50YWNp824gZGVsIHp1bW8gZGUgdXZhLCBsYSBjdWFsIHNlIHByb2R1Y2UgZ3JhY2lh
+cyBhIGxhIGFjY2nzbiBkZSBsYXMgbGV2YWR1cmFzIHByZXNlbnRlcyBlbiBlbCBob2xsZWpvIGRl
+IGxhcyB1dmFzLiBFbCBub21icmUgdmlubyBwcm9jZWRlIGRlbCBsYXTtbiB2aW51bSAsIHF1ZSBz
+ZSBjcmVlIHF1ZSBwcm9jZWRlIGRlbCBncmllZ28gb2lub3MgZSBpbmNsdXNvIGRlbCBz4W5zY3Jp
+dG8gdupuYSAuIA0K
+</rvf></Component><Component type="3" id="image3" zorder="5" filename="CORTIJOVINO" left="285" top="719" width="378" height="268" originwidth="1280" originheight="901" src="C:\Users\User\Downloads\WEB\CORTIJOVINO.png" previewfile="C:\Users\User\Downloads\WEB\CORTIJOVINO.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="2" id="text2" zorder="6" filename="text164430953" left="726" top="777" width="527" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="103" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;El VINO &lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;de la casa será de &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;EL CORTIJO DE LAIZ&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;Embotellado y distribuido en Asturias por Videsa.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;El VINO &lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;de la casa será de &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;EL CORTIJO DE LAIZ&lt;/B&gt;&lt;/font&gt;&lt;font face="Comic Sans MS" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;Embotellado y distribuido en Asturias por Videsa.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDAgMCAwIDANCkVsIFZJTk8g
+DQozIDEgLTEgMSAwIDANCmRlIGxhIGNhc2Egc2Vy4SBkZSANCjQgMSAwIDAgMCAwDQpFTCBDT1JU
+SUpPIERFIExBSVoNCjMgMSAtMSAxIDAgMA0KIA0KMyAyIDAgMCAwIDANCg0KRW1ib3RlbGxhZG8g
+eSBkaXN0cmlidWlkbyBlbiBBc3R1cmlhcyBwb3IgVmlkZXNhLg0K
+</rvf></Component><Component type="9" id="hr2" zorder="7" filename="hr164471343" hrsize="10" width="1152" height="27" left="234" top="1003" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text3" zorder="8" filename="text164517828" left="753" top="1098" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="227" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;VINOS TINTOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;FINCA DE CABILLA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;LADRÓN DE GUEVARA &lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;CARRAMIMBRE&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;VINOS TINTOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;FINCA DE CABILLA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;LADRÓN DE GUEVARA &lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;CARRAMIMBRE&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KhAAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHls
+ZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIoC0ZpcnN0SW5kZW50AgAMTWFya2VySW5k
+ZW50AhgLRm9udC5IZWlnaHQC7glGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBM56fmoAADQgMSAw
+IDAgMCAwDQpWSU5PUyBUSU5UT1MNCjMgMSAwIDAgMCAwDQoNCi0xMSAwIDAgMCAwIDAgMCAwIDAg
+MA0KMyAxIC0xIDEgMCAwDQpGSU5DQSBERSBDQUJJTExBDQozIDEgMCAwIDAgMA0KDQotMTEgMCAw
+IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KTEFEUtNOIERFIEdVRVZBUkEgDQozIDEgMCAw
+IDAgMA0KDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KQ0FSUkFNSU1CUkUN
+Cg==
+</rvf></Component><Component type="3" id="image4" zorder="9" filename="TINTOS" left="352" top="1064" width="262" height="286" originwidth="1280" originheight="1399" src="C:\Users\User\Downloads\WEB\TINTOS.png" previewfile="C:\Users\User\Downloads\WEB\TINTOS.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr3" zorder="10" filename="hr164587578" hrsize="10" width="1152" height="27" left="243" top="1364" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text4" zorder="11" filename="text164632125" left="754" top="1409" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="261" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;VINOS BLANCOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;SEÑORÍO DELIZIA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;PIONERO&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;VIÑA TENDIDA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;RIBEIRO - FINCA BARCELIÑOS&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;VINOS BLANCOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;SEÑORÍO DELIZIA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;PIONERO&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;VIÑA TENDIDA&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;RIBEIRO - FINCA BARCELIÑOS&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KhAAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHls
+ZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIoC0ZpcnN0SW5kZW50AgAMTWFya2VySW5k
+ZW50AhgLRm9udC5IZWlnaHQC7glGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBA1kRx4AADQgMSAw
+IDAgMCAwDQpWSU5PUyBCTEFOQ09TDQozIDEgMCAwIDAgMA0KDQotMTEgMCAwIDAgMCAwIDAgMCAw
+IDANCjMgMSAtMSAxIDAgMA0KU0XRT1LNTyBERUxJWklBDQozIDEgMCAwIDAgMA0KDQotMTEgMCAw
+IDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KUElPTkVSTw0KMyAxIDAgMCAwIDANCg0KLTEx
+IDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClZJ0UEgVEVORElEQQ0KMyAxIDAgMCAw
+IDANCg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClJJQkVJUk8gLSBGSU5D
+QSBCQVJDRUxJ0U9TDQo=
+</rvf></Component><Component type="3" id="image5" zorder="12" filename="BLANCOVINO" left="338" top="1409" width="316" height="257" originwidth="1280" originheight="1035" src="C:\Users\User\Downloads\WEB\BLANCO.png" previewfile="C:\Users\User\Downloads\WEB\BLANCO.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr4" zorder="13" filename="hr164705171" hrsize="10" width="1152" height="27" left="247" top="1678" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text5" zorder="14" filename="text164731359" left="755" top="1734" width="412" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" height="227" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:27px;"&gt;&lt;B&gt;VINOS ROSADOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;SEÑORÍO DE AYANZ&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;PEREGRINO (PRIETO PICUDO)&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" style="font-size:19px;"&gt;DEL L'EMILIA AMABILE ROSATO&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws20"&gt;&lt;B&gt;VINOS ROSADOS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;SEÑORÍO DE AYANZ&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;PEREGRINO (PRIETO PICUDO)&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Comic Sans MS" class="ws14"&gt;DEL L'EMILIA AMABILE ROSATO&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCDgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg1Db21pYyBTYW5zIE1TBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KhAAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHls
+ZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIoC0ZpcnN0SW5kZW50AgAMTWFya2VySW5k
+ZW50AhgLRm9udC5IZWlnaHQC7glGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBEUsbHcAADQgMSAw
+IDAgMCAwDQpWSU5PUyBST1NBRE9TDQozIDEgMCAwIDAgMA0KDQotMTEgMCAwIDAgMCAwIDAgMCAw
+IDANCjMgMSAtMSAxIDAgMA0KU0XRT1LNTyBERSBBWUFOWg0KMyAxIDAgMCAwIDANCg0KLTExIDAg
+MCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClBFUkVHUklOTyAoUFJJRVRPIFBJQ1VETykN
+CjMgMSAwIDAgMCAwDQoNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpERUwg
+TCdFTUlMSUEgQU1BQklMRSBST1NBVE8NCg==
+</rvf></Component><Component type="3" id="image6" zorder="15" filename="CLARETES" left="362" top="1717" width="254" height="282" originwidth="1280" originheight="1423" src="C:\Users\User\Downloads\WEB\CLARETES.png" previewfile="C:\Users\User\Downloads\WEB\CLARETES.png" bgcolor="" borderstyle="1" bordercolor="#000000" borderwidth="3" changefilename="1" resample="0" alt="" ratio="0" fp="0"/><Component type="9" id="hr5" zorder="16" filename="hr164798515" hrsize="10" width="1152" height="27" left="248" top="2003" hrcolor="#3DB67C" noshade="" usimage="0" src="" previewfile=""/></body></page></site>
